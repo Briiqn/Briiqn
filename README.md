@@ -8,7 +8,7 @@ I'm a developer based on Earth. I enjoy working on anything that I find intresti
 <div class="d-flex flex-wrap justify-content-between">
   <a href="https://github.com/anuraghazra/github-readme-stats" class="flex-fill">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Briiqn&show_icons=true&line_height=27&title_color=bf91f3&text_color=35b1a3&icon_color=bf91f3&bg_color=1a1b27" alt="GitHub stats" />
-     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Briiqn&theme=tokyonight" alt="GitHub Streak Stats" />
 </a>
   </a>
