@@ -12,6 +12,9 @@ I'm a developer based on Earth. I enjoy working on anything that I find intresti
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" class="flex-fill">
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Briiqn&theme=tokyonight" alt="GitHub Profile Summary Cards" />
   </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Briiqn&theme=tokyonight" alt="GitHub Streak Stats" />
+</a>
 </div>
 
 
