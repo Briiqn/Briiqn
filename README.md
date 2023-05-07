@@ -1,7 +1,7 @@
 <!-- Title -->
 # Hi, I'm Briiqn! 👋
 <!-- Visitors Badge -->
-![](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=brightblue)
+![](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
 <!-- Introduction -->
 I'm a developer based on Earth. I enjoy working on anything that I find intresting, and I'm passionate about block game hackering and antihackering.
 
