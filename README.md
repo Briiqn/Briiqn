@@ -11,4 +11,5 @@ I'm a developer based on Earth. I enjoy working on anything that I find intresti
   </a>
 
 </div>
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourGitHubUsername&theme=monokai)
+<!-- GitHub Profile Summary Cards -->
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Briiqn&theme=monokai)
