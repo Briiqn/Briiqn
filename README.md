@@ -15,8 +15,12 @@ I'm a developer based on Earth. I enjoy working on anything that I find interest
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" class="flex-fill">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Briiqn&theme=tokyonight" alt="GitHub Streak Stats" />
   </a>
+<a href="https://github.com/username">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briiqn&layout=compact&theme=tokyolight" alt="GitHub Languages" />
+</a>
 
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" class="flex-fill mt-3">
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Briiqn&theme=tokyonight" alt="GitHub Profile Summary Cards" />
   </a>
+    
 </div>
