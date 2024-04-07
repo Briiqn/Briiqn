@@ -3,7 +3,6 @@
 ![Visitors Badge](https://komarev.com/ghpvc/?username=Briiqn&color=blue)
 
 I'm a developer based on Earth 🌍. I thrive on challenging projects and I'm passionate about diving deep into block game hacking and anti-hacking.
-<iframe src="https://classic-snake-game.netlify.app/" width="800" height="600"></iframe>
 ## 🔥 GitHub Stats
 
 <div align="center">
