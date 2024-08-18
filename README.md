@@ -8,24 +8,36 @@
 
 ## 📊 Language & Coding Stats
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briiqn&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Briiqn&theme=tokyonight&hide_border=true&layout=compact" width="47%" />
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briiqn&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Briiqn&theme=tokyonight&hide_border=true&layout=compact" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🔥 GitHub Stats & Streak
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Briiqn&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Briiqn&theme=tokyonight&hide_border=true" width="47%" />
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Briiqn&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Briiqn&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 GitHub Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Briiqn&theme=tokyonight" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Briiqn&theme=tokyonight" width="100%" />
 </div>
