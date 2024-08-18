@@ -27,5 +27,5 @@
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2YTI1ZTFkYTc4ZTFhYjMwYmY1NTRkNzRhNTlkNTA2YzFhY2E3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> My Commits
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Briiqn&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Briiqn&theme=github_dark&bg_color=30,5900ff,9f00ff&title_color=fff&text_color=fff" width="100%" />
 </div>
