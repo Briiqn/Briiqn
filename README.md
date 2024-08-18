@@ -15,18 +15,11 @@
 
 ---
 
-## 🔥 GitHub Stats
+## 🔥 GitHub Stats & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Briiqn&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
----
-
-## 🌟 GitHub Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Briiqn&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Briiqn&show_icons=true&theme=tokyonight" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Briiqn&theme=tokyonight" width="45%" alt="GitHub Streak Stats" />
 </div>
 
 ---
