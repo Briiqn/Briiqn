@@ -9,8 +9,8 @@
 ## 📊 Language & Coding Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briiqn&layout=compact&theme=tokyonight" width="45%" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Briiqn&theme=tokyonight" width="45%" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briiqn&layout=compact&theme=tokyonight&card_width=320" width="45%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Briiqn&theme=tokyonight&layout=compact" width="45%" alt="WakaTime Stats" />
 </div>
 
 ---
@@ -18,8 +18,8 @@
 ## 🔥 GitHub Stats & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Briiqn&show_icons=true&theme=tokyonight" width="45%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Briiqn&theme=tokyonight" width="45%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Briiqn&show_icons=true&theme=tokyonight&hide=contribs,prs&card_width=320" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Briiqn&theme=tokyonight&card_width=320" width="45%" alt="GitHub Streak Stats" />
 </div>
 
 ---
