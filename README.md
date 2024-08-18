@@ -1,6 +1,5 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2ODExNzM1MDcyMjQ5NjQyNTM5NDk3NTM5NjQ1NjQxNjA3NTUzMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwF34cGDoFFhRfy/giphy.gif" width="30"> Hi there, I'm Briiqn! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2ODExNzM1MDcyMjQ5NjQyNTM5NDk3NTM5NjQ1NjQxNjA3NTUzMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwF34cGDoFFhRfy/giphy.gif" width="30">
 ![Visitors Badge](https://komarev.com/ghpvc/?username=Briiqn&color=bf91f3)
-[![Discord User](https://widgets.vendicated.dev/user?id=584177313877458947&theme=dark&banner=true&full-banner=true&rounded-corners=true&discord-icon=false&badges=false&guess-nitro=true)]
 
 > I'm a developer based on Earth <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQyYThlZThhNzNlOGRkZTI5NmQ2YzY4ZDU0MzAxNTY1OGJmOGY1ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I thrive on challenging projects and I'm passionate about diving deep into block game hacking and anti-hacking.
 
