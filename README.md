@@ -5,7 +5,7 @@
 ![Visitors Badge](https://komarev.com/ghpvc/?username=Briiqn&color=blue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Briiqn&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Briiqn)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Briiq)](https://github.com/anuraghazra/github-readme-stats)
 
 > I'm a developer based on Earth 🌍. I thrive on challenging projects and I'm passionate about diving deep into block game hacking and anti-hacking.
 
