@@ -6,7 +6,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRhNmY1ZTIwZDI4MzU3MzE1ZmE4YmQ5ZTdkOWM1YjE0YzY3NDVlMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" width="30"> Language & Coding Stats
+## <img src="https://media.tenor.com/chNh6okZ6c8AAAAi/pepe.gif" width="30"> Language & Coding Stats
 
 <table>
   <tr>
