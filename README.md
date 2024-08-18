@@ -21,7 +21,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGMxMTEyYzVkZWUxZjIyNjA2ZWVhZDEwZjNjNmIzYzk2YzNhMDEzYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> GitHub Stats & Streak
+## <img src="https://i.giphy.com/Opgs8NUosTAnRSFYzc.webp" width="30"> GitHub Stats & Streak
 
 <table>
   <tr>
