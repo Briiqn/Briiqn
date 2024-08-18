@@ -1,9 +1,13 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2ODExNzM1MDcyMjQ5NjQyNTM5NDk3NTM5NjQ1NjQxNjA3NTUzMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwF34cGDoFFhRfy/giphy.gif" width="30"> <span style="background: linear-gradient(to right, #800080, #0000FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Hi there, I'm Briiqn!</span> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2ODExNzM1MDcyMjQ5NjQyNTM5NDk3NTM5NjQ1NjQxNjA3NTUzMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwF34cGDoFFhRfy/giphy.gif" width="30">
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2ODExNzM1MDcyMjQ5NjQyNTM5NDk3NTM5NjQ1NjQxNjA3NTUzMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwF34cGDoFFhRfy/giphy.gif" width="30"> Hi there, I'm Briiqn! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2ODExNzM1MDcyMjQ5NjQyNTM5NDk3NTM5NjQ1NjQxNjA3NTUzMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3ohhwF34cGDoFFhRfy/giphy.gif" width="30">
 
 ![Visitors Badge](https://komarev.com/ghpvc/?username=Briiqn&color=bf91f3)
+
 > I'm a developer based on Earth <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQyYThlZThhNzNlOGRkZTI5NmQ2YzY4ZDU0MzAxNTY1OGJmOGY1ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I thrive on challenging projects and I'm passionate about diving deep into block game hacking and anti-hacking.
+
 ---
+
 ## <img src="https://media.tenor.com/chNh6okZ6c8AAAAi/pepe.gif" width="30"> Language & Coding Stats
+
 <table>
   <tr>
     <td width="50%">
@@ -14,8 +18,11 @@
     </td>
   </tr>
 </table>
+
 ---
+
 ## <img src="https://i.giphy.com/Opgs8NUosTAnRSFYzc.webp" width="30"> GitHub Stats & Streak
+
 <table>
   <tr>
     <td width="50%">
@@ -26,8 +33,11 @@
     </td>
   </tr>
 </table>
+
 ---
+
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2YTI1ZTFkYTc4ZTFhYjMwYmY1NTRkNzRhNTlkNTA2YzFhY2E3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> My Commits
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Briiqn&theme=github_dark" width="100%" />
 </div>
