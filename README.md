@@ -11,10 +11,10 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briiqn&layout=compact&bg_color=30,5900ff,9f00ff&title_color=fff&text_color=fff&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briiqn&layout=compact&bg_color=30,5900ff,9f00ff&title_color=fff&text_color=fff&hide_border=false" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Briiqn&bg_color=30,5900ff,9f00ff&title_color=fff&text_color=fff&hide_border=true&layout=compact" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Briiqn&bg_color=30,5900ff,9f00ff&title_color=fff&text_color=fff&hide_border=false&layout=compact" width="100%" />
     </td>
   </tr>
 </table>
@@ -26,10 +26,10 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Briiqn&show_icons=true&bg_color=30,5900ff,9f00ff&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&custom_title=GitHub%20Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Briiqn&show_icons=true&bg_color=30,5900ff,9f00ff&title_color=fff&text_color=fff&icon_color=fff&hide_border=false&custom_title=GitHub%20Stats" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Briiqn&background=30,5900ff,9f00ff&stroke=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff&hide_border=true" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Briiqn&background=30,5900ff,9f00ff&stroke=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff&hide_border=false" width="100%" />
     </td>
   </tr>
 </table>
