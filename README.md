@@ -6,7 +6,8 @@
 
 ## <img src="https://media.tenor.com/chNh6okZ6c8AAAAi/pepe.gif" width="30"> Language & Coding Stats
 
-<div style="display: flex; justify-content: space-between;">
+  <div style="width: 49%; height: 200px;">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briiqn&layout=compact&bg_color=30,5900ff,9f00ff&title_color=fff&text_color=fff&hide_border=false" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Briiqn&bg_color=30,5900ff,9f00ff&title_color=fff&text_color=fff&hide_border=false&layout=compact" width="49%" />
 </div>
@@ -15,7 +16,7 @@
 
 ## <img src="https://i.giphy.com/Opgs8NUosTAnRSFYzc.webp" width="30"> GitHub Stats & Streak
 
-<div style="display: flex; justify-content: space-between;">
+<div style="width: 49%; height: 200px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Briiqn&show_icons=true&bg_color=30,5900ff,9f00ff&title_color=fff&text_color=fff&icon_color=fff&hide_border=false&custom_title=GitHub%20Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Briiqn&background=30,5900ff,9f00ff&stroke=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff&hide_border=false" width="49%" />
 </div>
