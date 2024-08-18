@@ -3,7 +3,7 @@
 # Hi there, I'm Briiqn! 👋
 
 ![Visitors Badge](https://komarev.com/ghpvc/?username=Briiqn&color=blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Briiqna&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Briiqn&hide_progress=true)
 I'm a developer based on Earth 🌍. I thrive on challenging projects and I'm passionate about diving deep into block game hacking and anti-hacking.
 ## 🔥 GitHub Stats
 
