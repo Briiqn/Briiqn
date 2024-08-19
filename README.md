@@ -10,7 +10,7 @@
   <div style="width: 49%; height: 200px;">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briiqn&layout=compact&bg_color=30,5900ff,9f00ff&title_color=fff&text_color=fff&hide_border=false" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Briiqn&bg_color=30,5900ff,9f00ff&title_color=fff&text_color=fff&hide_border=false&layout=compact" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Briiqn&bg_color=30,5900ff,9f00ff&title_color=fff&text_color=fff&hide_border=false&layout=compac" width="49%" />
 </div>
 
 ---
