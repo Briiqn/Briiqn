@@ -32,8 +32,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:bf91f3&height=2&section=header" width="100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Briiqn&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf91f3,100:0d1117&height=120&section=footer" width="100%" />
 </div>
