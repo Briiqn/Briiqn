@@ -23,7 +23,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briiqn&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=bf91f3&text_color=c9d1d9&langs_count=8" width="49%" align="top" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Briiqn&theme=radical&hide_border=true&bg_color=0d1117&title_color=bf91f3&text_color=c9d1d9&layout=compact" width="49%" align="top" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Briiqn&theme=radical&hide_border=true&bg_color=0d1117&title_color=bf91f3&text_color=c9d1d8&layout=compact" width="49%" align="top" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:bf91f3&height=2&section=header" width="100%" />
